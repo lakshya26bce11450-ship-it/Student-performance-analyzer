@@ -1,0 +1,2 @@
+# No third-party packages needed. Uses only the Python standard library
+# (tkinter, csv, logging, unittest). Requires Python 3.8+.
